@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class Task1Test {
+class Task1Test {
 
     private Task1 task = new Task1();
 
